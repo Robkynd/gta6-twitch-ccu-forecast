@@ -1,0 +1,6 @@
+{"agent_id": "ec56bced-535b-435a-b191-750ab2667cc7", "message_id": "17e185df-c155-4f67-91d2-d31a248a264f", "created_at": 1794929303, "input_tokens": 1296655, "output_tokens": 4633, "model": "muse-spark-1.3"}
+{"agent_id": "ec56bced-535b-435a-b191-750ab2667cc7", "message_id": "7b8e7489-21ad-4769-9218-4d0acbfb1891", "created_at": 1794929497, "input_tokens": 224431, "output_tokens": 197, "model": "muse-spark-1.3"}
+{"agent_id": "ec56bced-535b-435a-b191-750ab2667cc7", "message_id": "2d63b2c2-0400-4ac3-ba5f-e6f8a12fed9f", "created_at": 1794930005, "input_tokens": 453053, "output_tokens": 2952, "model": "muse-spark-1.3"}
+{"agent_id": "ec56bced-535b-435a-b191-750ab2667cc7", "message_id": "1f4ef89b-7b27-c9c0-349a-929cad165eaa", "created_at": 1794930037, "input_tokens": 228901, "output_tokens": 57, "model": "muse-spark-1.3"}
+{"agent_id": "ec56bced-535b-435a-b191-750ab2667cc7", "message_id": "b8222a20-a580-4d10-b281-9599278f8725", "created_at": 1794930358, "input_tokens": 1717127, "output_tokens": 3243, "model": "muse-spark-1.3"}
+{"agent_id": "ec56bced-535b-435a-b191-750ab2667cc7", "message_id": "b2032096-fe8e-3427-f70b-eb3ab64bfe06", "created_at": 1794930489, "input_tokens": 252669, "output_tokens": 62, "model": "muse-spark-1.3"}
